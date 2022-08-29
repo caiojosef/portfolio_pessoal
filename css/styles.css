@@ -1,6 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
 .foto-perfil {
     height: 100%;
     width: auto;
     max-width: 20%;
     border-radius: 50%;
+}
+
+.fontform{
+   font-size: 20px;
+}
+
+.corpo {
+    background-color: white;
+}
+
+.textoprimario {
+    color: black;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.texto{
+    color: #ff4500;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+}
+
+.textosecundario{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.terceirotexto{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.redesicones{
+    font-size: 50px;
+    color: black;
 }
